@@ -1,2 +1,2 @@
-# hithub-demo
+# github-demo
 A sample demo repository to try the basic Git workflow
